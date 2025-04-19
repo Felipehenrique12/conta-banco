@@ -26,7 +26,7 @@ public class ContaTerminal {
 				", sua conta é " + numero + ", e seu saldo é R$" + saldo + 
 				" já está disponível para saque.";
 		
-		System.out.println("\n" + mensagem);
+		System.out.println("\n" + mensagem); 
 		
 		scanner.close();
 
